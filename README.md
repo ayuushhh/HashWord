@@ -41,7 +41,6 @@ npm install
 ### Run
 
 ```
-
 # Run frontend (:3000) & backend (:5000)
 npm run dev
 
@@ -49,3 +48,34 @@ npm run dev
 npm run server
 ```
 
+### Project screen shots
+
+#### Main Screen
+
+```
+<img src="./frontend/public/main-screen.png" />
+```
+
+#### Register Screen
+
+```
+<img src="./frontend/public/register-screen.png" />
+```
+
+#### Sign-in Screen
+
+```
+<img src="./frontend/public/sign_in-screen.png" />
+```
+
+#### Dashboard
+
+```
+<img src="./frontend/public/dashboard-screen.png" />
+```
+
+#### Update Screen
+
+```
+<img src="./frontend/public/update-profile.png" />
+```
